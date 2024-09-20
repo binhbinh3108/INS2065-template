@@ -1,6 +1,6 @@
 # README
 
-## GROUP <add-group-name>
+## GROUP <binh va nhung nguoi ban>
 
 - Member 1: Nguyen Thanh Binh 
 - Member 2: Dau Truc Linh
